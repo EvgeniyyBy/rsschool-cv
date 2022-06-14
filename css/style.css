@@ -192,3 +192,20 @@ body {
     opacity: 0.5;
     transition: 0.3s;
 }
+
+.contact__list {
+    display: flex;
+}
+.contact__item {
+    margin-right: 15px;
+}
+
+.project {
+    margin-bottom: 100px;
+}
+
+.project__link {
+    font-size: 20px;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
